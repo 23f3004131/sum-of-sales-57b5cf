@@ -1,22 +1,20 @@
-# Sales Dashboard
+# Web Application - Round 2
 
 ## Description
-A simple web application that displays sales data in a responsive Bootstrap table and calculates the total sales amount.
+This is an automated web application generated and deployed via LLM Code Deployment system.
 
 ## Features
-- Displays sales data from a CSV file.
-- Calculates and displays the total sales amount.
-- Responsive design using Bootstrap.
+- Modern, responsive design
+- Self-contained HTML application
+- Deployed on GitHub Pages
 
 ## Usage
-1. Open `index.html` in a web browser.
-2. The sales data will be loaded and displayed automatically.
+Simply open the application in a web browser. The application is fully functional and requires no additional setup.
 
-## Setup
-1. Ensure all files are located in the same directory.
-2. No additional setup is required as external libraries are loaded via CDN.
+## Technologies
+- HTML5
+- CSS3
+- JavaScript
 
-## Technologies Used
-- HTML, CSS, JavaScript
-- Bootstrap for styling
-- jQuery for DOM manipulation and AJAX
+## Deployment
+This application is automatically deployed to GitHub Pages.
